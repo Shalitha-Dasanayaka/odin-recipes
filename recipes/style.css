@@ -1,8 +1,56 @@
+/*Bake Sale Lemon Bars*/
+
+*{
+     font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+    
+    
+body{
+    background-color: #D4F1F4;
+}
+
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:#348994;
+    font-size: 45px;
     text-align: center;
-    font-size: 32px;
-    font-weight: 800;
+    color:#189AB4;
     
 }
+
+h2{
+    text-decoration-line: underline;
+}
+
+h3{
+    background-color: white;
+    color: black;
+    text-decoration-line: underline;
+    
+}
+
+p{
+    text-align: justify;
+    font-size: larger;
+    
+    
+}
+
+#cakeimg, #cakeimg1, #cakeimg2{
+    width: 400px;
+    height:auto;
+    margin-left: 470px;
+}
+
+.list{
+    text-align: justify;
+    margin-bottom: auto;
+    line-height:30px ;
+    background-color: #189AB4;
+}
+#link{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: justify;
+    margin-left: 600px;
+}
+
+
