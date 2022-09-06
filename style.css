@@ -1,0 +1,30 @@
+body{
+    background-color: #FAE43EEE;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#348994;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 800;
+}
+
+div{
+    display:inline-block;
+}
+
+#first, #second, #third{
+
+    height:auto;
+    width:300px;
+    display:inline-block;
+    margin-bottom: 25px;
+}
+
+#name1, #name2, #name3{
+    font-weight: bolder;
+    text-shadow: 10px;
+    font-size:22px;
+    
+}
